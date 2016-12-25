@@ -1,0 +1,18 @@
+{
+  "name": "@fibjs/pool",
+  "version": "1.0.0",
+  "description": "pool for fibjs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "fibjs test/index.test.js"
+  },
+  "keywords": [
+    "pool",
+    "fibjs"
+  ],
+  "author": "ngot",
+  "license": "MIT"
+}
