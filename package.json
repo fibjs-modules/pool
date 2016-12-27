@@ -13,6 +13,10 @@
     "pool",
     "fibjs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fibjs-modules/pool.git"
+  },
   "author": "ngot",
   "license": "MIT"
 }
