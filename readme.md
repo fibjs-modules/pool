@@ -4,6 +4,12 @@ pool module for fibjs.
 
 This module can be used to implement db connection pool or other situation like this.
 
+# Installation
+
+```
+  npm install @fibjs/pool --save
+```
+
 # Usage
 
 ```js
