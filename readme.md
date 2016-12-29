@@ -1,6 +1,6 @@
 # @fibjs/pool
 
-![](https://travis-ci.org/fibjs-modules/pool.svg?branch=master)
+![https://travis-ci.org/fibjs-modules/pool](https://travis-ci.org/fibjs-modules/pool.svg?branch=master)
 
 pool module for fibjs.
 
