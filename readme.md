@@ -1,5 +1,7 @@
 # @fibjs/pool
 
+![](https://travis-ci.org/fibjs-modules/pool.svg?branch=master)
+
 pool module for fibjs.
 
 This module can be used to implement db connection pool or other situation like this.
